@@ -1,0 +1,4 @@
+config.php*
+/vendor/
+websocket.sql*
+composer.lock*
